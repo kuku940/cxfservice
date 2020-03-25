@@ -9,7 +9,8 @@
 
 2. 添加三处配置文件，分别是applicationContext.xml,cxf-servlet.xml,web.xml分别按照项目的例子添加配置文件
 
-3. 启动tomcat工程项目，然后访问如下地址[http://localhost:8080/cxfservice/webService/userservice?wsdl](http://localhost:8080/cxfservice/webService/userservice?wsdl),
+3. 启动tomcat工程项目，然后访问如下地址:  
+[http://localhost:8080/cxfservice/webService/userservice?wsdl](http://localhost:8080/cxfservice/webService/userservice?wsdl),
 [http://localhost:8080/cxfservice/webService/calculator?wsdl](http://localhost:8080/cxfservice/webService/calculator?wsdl)可以查看到具体的wsdl文件
 
 ### 编写客户端
